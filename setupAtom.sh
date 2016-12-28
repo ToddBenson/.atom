@@ -1,12 +1,12 @@
 #! /bin/bash
+sudo pip install pylint
+pip install flake8
+pip install flake8-docstrings
 apm install symbols-tree-view
 apm install merge-conflicts
 apm install pigments
 apm install color-picker
 apm install linter
-sudo pip install pylint
-pip install flake8
-pip install flake8-docstrings
 apm install linter-flake8
 apm install script
 apm install concourse-vis
