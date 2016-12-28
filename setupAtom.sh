@@ -26,3 +26,16 @@ apm install linter-pylint
 apm install jsonlint
 apm install regex-railroad-diagram
 apm install sort-lines
+apm install atom-python-run
+apm install atom-python-test
+apm install autocomplete-python
+apm install browser-plus
+apm install git-projects
+apm install hyperclick
+apm install language scala
+apm install project-manager
+apm install python-autopep8
+apm install python-debugger
+apm install python-indent
+apm install python-jedi
+apm install python-tools
