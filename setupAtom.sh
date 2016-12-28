@@ -32,7 +32,7 @@ apm install autocomplete-python
 apm install browser-plus
 apm install git-projects
 apm install hyperclick
-apm install language scala
+apm install language-scala
 apm install project-manager
 apm install python-autopep8
 apm install python-debugger
