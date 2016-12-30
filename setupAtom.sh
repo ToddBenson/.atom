@@ -1,7 +1,8 @@
 #! /bin/bash
-sudo pip install pylint
-pip install flake8
-pip install flake8-docstrings
+sudo -H pip install pylint
+sudo -H pip install flake8
+sudo -H pip install flake8-docstrings
+sudo -H pytest-cov
 apm install atom-beautify
 apm install atom-python-run
 apm install atom-python-test
